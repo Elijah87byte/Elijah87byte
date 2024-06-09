@@ -1,5 +1,6 @@
-## Hi there 👋
-I am Elijah Ojo
+### Hi there 👋
+# I am Elijah Ojo
+# I'm a data Analyst / Business Analyst
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
