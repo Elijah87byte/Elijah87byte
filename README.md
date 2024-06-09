@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Elijah Ojo
-# I'm a data Analyst / Business Analyst
+# I'm a Data Analyst / Business Analyst
 About me:
 😄 Pronouns: he/him
 ⚡ Fun fact: I love solving puzzles
