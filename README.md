@@ -13,5 +13,5 @@ Contact: Gmail
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/elijah-ojo-8b29351a3)
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: I love listening to good music...
-- E Mail Contact: (elijahojo87@outlook.com) 
+- E Mail Contact: [Outlook](elijahojo87@outlook.com) 
 -->
