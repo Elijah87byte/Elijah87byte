@@ -2,9 +2,7 @@
 # I am Elijah Ojo
 # I'm a Data Analyst / Business Analyst
 About me:
-😄 Pronouns: he/him
-⚡ Fun fact: I love solving puzzles
-Contact: Gmail
+
 - 🔭 I’m currently working on building my foundational skills in data analytics by working on small data projects and participating in online courses...
 - 🌱 I’m currently learning SQL, Excel and data visualization techniques using tools like Power BI...
 - 👯 I’m looking to collaborate on beginner-friendly data analytics projects that involve cleaning, analyzing, and visualizing datasets to gain insights...
