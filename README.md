@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Elijah Ojo
-# I'm a Data Analyst / Business Analyst in training
+## I'm a Data Analyst / Business Analyst in training
 About me:
 
 - 🔭 I’m currently working on building my foundational skills in data analytics by working on small data projects and participating in online courses...
