@@ -16,7 +16,10 @@ About me:
 
 # My Arsenal:
 
-- Construiction Cost Management
-- Project & Cost Controls
-- Quantity Surveying
-- Project Management
+- Microsoft Excel
+- SPSS
+- MS Project
+- Premivera
+- Navisworks
+
+
