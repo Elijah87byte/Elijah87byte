@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Elijah Ojo
-# I'm a Data Analyst / Business Analyst
+# I'm a Data Analyst / Business Analyst in training
 About me:
 
 - 🔭 I’m currently working on building my foundational skills in data analytics by working on small data projects and participating in online courses...
@@ -13,3 +13,10 @@ About me:
 - ⚡ Fun fact: I love listening to good music...
 - E Mail Contact: [Outlook](elijahojo87@outlook.com) 
 -->
+
+# My Arsenal:
+
+- Construiction Cost Management
+- Project & Cost Controls
+- Quantity Surveying
+- Project Management
